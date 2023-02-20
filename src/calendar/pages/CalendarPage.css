@@ -1,0 +1,14 @@
+.rbc-today {
+  background: #f2fff5;
+}
+.rbc-btn-group > button:not(:first-child):not(:last-child) {
+  background: #f2fff5;
+}
+
+.rbc-btn-group > button:last-child:not(:first-child) {
+  background: #f2fff5;
+}
+
+.rbc-btn-group > button:first-child:not(:last-child) {
+  background: #f2fff5;
+}
